@@ -10,8 +10,8 @@ Hello, I'm Gauthier, a 20-year-old french student from Polytech Nice Sophia, in 
 
 ### Personal projects
 - [🍃 Leafy](https://github.com/CamilleAntonios/CamilleAntonios.github.io): front-end-only web app for the ["Nuit de l'info"](https://www.nuitdelinfo.com/) contest. *Uses HTML, CSS, JS*
-- [🎮 Games on Web](https://github.com/martgauthier/gamesonweb): basic use of the Babylon.js 3D library, for the ["Games on Web"](https://www.cgi.com/france/fr-fr/event/games-on-web-2023) contest *Uses Typescript, Webpack*
-- [📻 Règlement Radio Web](https://github.com/martgauthier/reglementradioweb): web reproduction of the [Reglement Radio App](https://www.instagram.com/reglementradio/) *Uses Vue.js, HTML, CSS*
+- [🎮 Games on Web](https://github.com/martgauthier/gamesonweb): basic use of the Babylon.js 3D library, for the ["Games on Web"](https://www.cgi.com/france/fr-fr/event/games-on-web-2023) contest. *Uses Typescript, Webpack*
+- [📻 Règlement Radio Web](https://github.com/martgauthier/reglementradioweb): web reproduction of the [Reglement Radio App](https://www.instagram.com/reglementradio/). *Uses Vue.js, HTML, CSS*
 
 
 
@@ -20,6 +20,7 @@ Hello, I'm Gauthier, a 20-year-old french student from Polytech Nice Sophia, in 
 <summary><i><b>Version française</b></i></summary>
 
 **🧑‍🎓 Etudiant en informatique à l'école d'ingénieurs Polytech Nice Sophia**
+
 Bonjour, je suis Gauthier, un étudiant de 20 ans de l'école Polytech Nice Sophia, à Biot. N'hésitez pas à [me contacter sur Linkedin !](https://www.linkedin.com/in/gauthier-martin-45a788276/)
 
 ### Projets étudiants
@@ -30,5 +31,5 @@ Bonjour, je suis Gauthier, un étudiant de 20 ans de l'école Polytech Nice Soph
 ### Projets personnels
 - [🍃 Leafy](https://github.com/CamilleAntonios/CamilleAntonios.github.io): application web pour le tournoi ["La Nuit de l'info"](https://www.nuitdelinfo.com/). *Utilise HTML, CSS, JS*
 - [🎮 Games on Web](https://github.com/martgauthier/gamesonweb): utilisation simple de la librairie Babylon.js, pour le tournoi ["Games on Web"](https://www.cgi.com/france/fr-fr/event/games-on-web-2023). *Utilise Typescript, Webpack*
-- [📻 Règlement Radio Web](https://github.com/martgauthier/reglementradioweb): reproduction web de l'appli [Reglement Radio](https://www.instagram.com/reglementradio/) *Utilise Vue.js, HTML, CSS*
+- [📻 Règlement Radio Web](https://github.com/martgauthier/reglementradioweb): reproduction web de l'appli [Reglement Radio](https://www.instagram.com/reglementradio/). *Utilise Vue.js, HTML, CSS*
 </details>
