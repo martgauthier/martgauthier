@@ -3,6 +3,8 @@
 
 Hello, I'm Gauthier, a 20-year-old french student from Polytech Nice Sophia, in Biot. Don't hesitate to [check my Linkedin !](https://www.linkedin.com/in/gauthier-martin-45a788276/)
 
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martgauthier&layout=donut&theme=radical)
+
 ### School projects
 - [🧠 Memorizz](https://github.com/martgauthier/memorizz-web-projet-polytech): a front-end and backend web project for Alzheimer's patients, with precise statitics about patients's gameplay. *Uses Angular, Express.JS (and so naturally : Node.JS, Typescript, HTML, CSS)*
 - [🎸 Crazy-Dinguo](https://github.com/martgauthier/crazy-dinguo-android-app): Java Android application for a (fake) music festival, with many features such as a list of concerts, parking lot reservation... *Uses Java for the App, and Firebase Realtime-Database for the backend*
